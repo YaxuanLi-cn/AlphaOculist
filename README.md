@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="figures/logo_cropped.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 10px;">
+  <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 10px;">
   <img src="figures/title.svg" alt="AlphaOculist" height="50" style="vertical-align: middle;">
 </p>
 
