@@ -3,6 +3,8 @@
   <img src="figures/title.svg" alt="AlphaOculist" height="50" style="vertical-align: middle;">
 </p>
 
+<br>
+
 [![Paper](https://img.shields.io/badge/📄_Paper-arXiv-B31B1B?style=for-the-badge&logoColor=white)](https://arxiv.org/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/📮_Email-Contact_Us-0078D4?style=for-the-badge&logoColor=white)](mailto:yaxuanli.cn@gmail.com)
