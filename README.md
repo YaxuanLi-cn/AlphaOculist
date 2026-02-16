@@ -1,5 +1,5 @@
 <p>
-  <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 16px;">
+  <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 32px;">
   <img src="figures/title.svg" alt="AlphaOculist" height="50" style="vertical-align: middle;">
 </p>
 
