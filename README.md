@@ -1,11 +1,11 @@
-<div align="center">
-
-<p align="center">
-  <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 10px;">
+<p>
+  <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 16px;">
   <img src="figures/title.svg" alt="AlphaOculist" height="50" style="vertical-align: middle;">
 </p>
 
-### 🔬 Intelligent Ophthalmic Diagnosis with AI
+---
+
+<div align="center">
 
 <br>
 
