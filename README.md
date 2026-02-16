@@ -1,5 +1,3 @@
-<div align="center">
-
 <p>
   <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 16px;">
   <img src="figures/title.svg" alt="AlphaOculist" height="50" style="vertical-align: middle;">
@@ -13,12 +11,8 @@
 &nbsp;&nbsp;
 [![BibTeX](https://img.shields.io/badge/🔖_BibTeX-Citation-8B5CF6?style=for-the-badge&logoColor=white)](#-citation)
 
-<br>
-
-<p align="center" style="font-size: 16px; color: #555;">
+<p style="font-size: 16px; color: #555;">
   <em>An AI-powered framework for comprehensive ophthalmic image analysis and diagnosis.</em>
 </p>
 
 ---
-
-</div>
