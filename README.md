@@ -1,13 +1,9 @@
+<div align="center">
+
 <p>
   <img src="figures/logo.png" alt="AlphaOculist Logo" height="58" style="vertical-align: middle; margin-right: 16px;">
   <img src="figures/title.svg" alt="AlphaOculist" height="50" style="vertical-align: middle;">
 </p>
-
----
-
-<div align="center">
-
-<br>
 
 [![Paper](https://img.shields.io/badge/📄_Paper-arXiv-B31B1B?style=for-the-badge&logoColor=white)](https://arxiv.org/)
 &nbsp;&nbsp;
